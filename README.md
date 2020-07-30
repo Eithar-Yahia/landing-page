@@ -18,7 +18,7 @@ cd landing-page
 code .
 ```
 
-## Tools
+##Tools
 
 - Visual Studio Code.
 - Google Chrome.
@@ -30,6 +30,6 @@ code .
 - ES6
 
 ## Screenshots
-![Alt text](pic2.PNG?raw=true "Optional Title")
+![Alt text](pic2.png?raw=true "Optional Title")
 ![Alt text](pic1.PNG?raw=true "Optional Title")
 
