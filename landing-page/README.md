@@ -14,7 +14,7 @@ The project build with HTML and CSS, adding JS to modify it with dynamic navigat
 ## Instructions
 
 ```
-git clone https://github.com/Eithar-Yahia/landing-page
+git clone https://github.com/Eithar-Yahia/landing-page.git
 cd landing-page
 code .
 ```
