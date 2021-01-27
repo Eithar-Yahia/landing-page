@@ -31,6 +31,6 @@ code .
 - ES6
 
 ## Screenshots
-![Alt text](pic2.PNG?raw=true "Optional Title")
+![Alt text](pic2.PNG?raw=true pic1)
 ![Alt text](pic1.PNG?raw=true "Optional Title")
 
